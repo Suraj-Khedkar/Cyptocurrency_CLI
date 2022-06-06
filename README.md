@@ -13,3 +13,8 @@
 `cryptorates key set`   -set the api key</br>
 `cryptorates check price`   - check the current crytocurrency rates</br>
 `cryptorates check prices cur=USD coin=BTC` -check the currency rates for particular coin in particular currency</br>
+</br>
+## Output
+![image](https://user-images.githubusercontent.com/68546999/172112264-4d1424e9-6ca9-461f-a96e-42dbdcc04e26.png)
+</br>
+![image](https://user-images.githubusercontent.com/68546999/172112648-b085288f-702c-415d-9df5-cb08387cbcac.png)
